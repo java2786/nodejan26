@@ -1,0 +1,23 @@
+========Welcome to Sohan's Restaurant========
+==================Our menu===================
+1. Dosa                 - Rs 70/-
+2. Pizza                - Rs 120/-
+3. Samosa               - Rs 20/-
+4. Tea          - Rs 10/-
+5. Pakora               - Rs 50/-
+
+Dosa Quantity: 1
+Pizza Quantity: 2
+Samosa Quantity: 0
+Tea Quantity: 0
+Pakora Quantity: 0
+
+
+===========Mohan's Bill=============
+Dosa: 1x Rs 70 = 70
+Pizza: 2x Rs 120 = 240
+Samosa: 0x Rs 20 = 0
+Tea: 0x Rs 10 = 0
+Pakora: 0x Rs 50 = 0
+--------------------------------------------
+Total bill: Rs 310

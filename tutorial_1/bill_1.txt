@@ -1,0 +1,16 @@
+
+========Welcome to Sohan's Restaurant========
+==================Our menu===================
+1. Samosa		- Rs 15/-
+2. Pakora		- Rs 40/-
+
+
+Samosa Quantity: 5
+Pakora Quantity: 2
+
+
+===========Mohan's Bill=============
+Samosa: 5x Rs 15 = 75
+Pakora: 2x Rs 40 = 80
+--------------------------------------------
+Total bill: Rs 155

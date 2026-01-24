@@ -1,0 +1,14 @@
+Create `data/attendance.csv`:
+```csv
+EmployeeID,Name,Date,Status
+E001,Suresh,2024-01-15,Present
+E002,Ramesh,2024-01-15,Absent
+E003,Mahesh,2024-01-15,Present
+E004,Dinesh,2024-01-15,Present
+```
+
+Employees' Attendance Data
+Total: 4
+Present: 3
+Absent: 1
+Present percentage: 75

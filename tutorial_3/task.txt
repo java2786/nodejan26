@@ -1,0 +1,4 @@
+data -> write -> file
+
+emps.js -> write -> file 
+
